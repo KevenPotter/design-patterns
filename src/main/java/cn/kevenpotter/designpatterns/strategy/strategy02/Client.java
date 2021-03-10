@@ -1,7 +1,4 @@
-package cn.kevenpotter.designpatterns.strategy.strategy01;
-
-import cn.kevenpotter.designpatterns.strategy.strategy01.impl.Add;
-import cn.kevenpotter.designpatterns.strategy.strategy01.impl.Sub;
+package cn.kevenpotter.designpatterns.strategy.strategy02;
 
 import java.util.Arrays;
 
@@ -16,12 +13,10 @@ public class Client {
         String symbol = cals[1];
         int b = Integer.parseInt(cals[2]);
         System.out.println("输入的参数为: " + Arrays.toString(cals));
-        Context context = null;
         if (symbol.equals(ADD_SYMBOL)) {
-            context = new Context(new Add());
+            System.out.println("运行结果为: " + a + symbol + b + "=" + Calculator.ADD.exec(a, b));
         } else if (symbol.equals(SUB_SYMBOL)) {
-            context = new Context(new Sub());
+            System.out.println("运行结果为: " + a + symbol + b + "=" + Calculator.SUB.exec(a, b));
         }
-        System.out.println("运行结果为: " + a + symbol + b + "=" + context.exec(a, b, symbol));
     }
 }
