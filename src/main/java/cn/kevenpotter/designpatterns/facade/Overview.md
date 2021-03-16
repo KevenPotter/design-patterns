@@ -1,5 +1,5 @@
 ## 外观（门面）模式：
->本质：封装交互，简化调用
+>本质：封装交互，简化调用  
 ####概念：
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求一个子系统的外部与其内部的通信必须通过一个统一的对象进行。外观模式提供一个高层次的接口，使得子系统更易于使用（Porvide a unified interface to a set of interfaces in a subsystem, Facade defines a higher-level interface that makes the subsystem easier to use. ）。     
 ####通用类图解释：
