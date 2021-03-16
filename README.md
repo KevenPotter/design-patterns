@@ -1,4 +1,4 @@
-# 设计模式
+# 设计模式  
 ### 1 [简单工厂模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/simpleFactory/Overview.md)  
 ### 2 [外观模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/facade/Overview.md)  
 ### 3 适配器模式  
