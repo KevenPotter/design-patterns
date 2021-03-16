@@ -1,4 +1,4 @@
-##外观（门面）模式：
+## 外观（门面）模式：
 >本质：封装交互，简化调用
 ####概念：
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要求一个子系统的外部与其内部的通信必须通过一个统一的对象进行。外观模式提供一个高层次的接口，使得子系统更易于使用（Porvide a unified interface to a set of interfaces in a subsystem, Facade defines a higher-level interface that makes the subsystem easier to use. ）。     
@@ -44,35 +44,6 @@ public class Facade {
     }
     public void methodA() {
         this.a.doSomethingC();
-    }
-}
-```
-Factory角色：
-```java
-public class Factory {
-    /**
-     * 具体创建Api对象的方法
-     * @param condition 示意，从外部传入的选择条件
-     * @return 创建好的Api对象
-     * 通常为String、Enum、Class等，当然也可以为空
-     */
-    public static Api createApi(int condition) {
-        Api api = null;
-        if (condition == 1) {
-            api = new ImplA();
-        } else if (condition == 2) {
-            api = new ImplB();
-        }
-        return api;
-    }
-}
-```
-Client角色：
-```java
-public class Client {
-    public static void main(String[] args) {
-        Api api = Factory.createApi(1);
-        api.operation("正在使用简单工厂。");
     }
 }
 ```
