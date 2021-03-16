@@ -21,5 +21,5 @@
 ### 20 解释器模式  
 ### 21 [装饰模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/decorator/overview.md)  
 ### 22 [职责链模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/chainOfResonsibility/overview.md)  
-### 23 桥接模式  
+### 23 [桥接模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/bridge/overview.md)  
 ### 24 访问者模式  
