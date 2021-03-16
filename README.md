@@ -1,9 +1,9 @@
 # 设计模式  
-### 1 [简单工厂模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/simpleFactory/Overview.md)  
-### 2 [外观模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/facade/Overview.md)  
+### 1 [简单工厂模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/simpleFactory/overview.md)  
+### 2 [外观模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/facade/overview.md)  
 ### 3 适配器模式  
 ### 4 单例模式  
-### 5 工厂方法模式  
+### 5 [工厂方法模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/factoryMethod/overview.md)  
 ### 6 抽象工厂模式  
 ### 7 生成器模式  
 ### 8 原型模式  
@@ -14,12 +14,12 @@
 ### 13 迭代器模式  
 ### 14 组合模式  
 ### 15 模板方法模式  
-### 16 策略模式  
+### 16 [策略模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/strategy/overview.md)  
 ### 17 状态模式  
 ### 18 备忘录模式  
 ### 19 享元模式  
 ### 20 解释器模式  
-### 21 装饰模式  
-### 22 职责链模式  
+### 21 [装饰模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/decorator/overview.md)  
+### 22 [职责链模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/chainOfResonsibility/overview.md)  
 ### 23 桥接模式  
 ### 24 访问者模式  
