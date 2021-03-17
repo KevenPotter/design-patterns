@@ -10,7 +10,7 @@
 ### 9 中介者模式  
 ### 10 代理模式  
 ### 11 观察者模式  
-### 12 命令模式  
+### 12 [命令模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/command/overview.md)  
 ### 13 迭代器模式  
 ### 14 组合模式  
 ### 15 模板方法模式  
