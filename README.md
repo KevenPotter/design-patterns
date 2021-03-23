@@ -13,7 +13,7 @@
 ### 12 [命令模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/command/overview.md)  
 ### 13 迭代器模式  
 ### 14 组合模式  
-### 15 模板方法模式  
+### 15 [模板方法模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/templateMethod/overview.md)  
 ### 16 [策略模式](https://github.com/KevenPotter/design-patterns/blob/master/src/main/java/cn/kevenpotter/designpatterns/strategy/overview.md)  
 ### 17 状态模式  
 ### 18 备忘录模式  
